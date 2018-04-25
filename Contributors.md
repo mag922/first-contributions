@@ -3484,3 +3484,4 @@
 - [Jereme Daniels](https://github.com/Jereme2147)
 - [Bren Santos](https://github.com/brenbread)
 - [Mohamed Sahouli](https://github.com/msahouli)
+- [Mohamed_Magdy](https://github.com/mag922)
